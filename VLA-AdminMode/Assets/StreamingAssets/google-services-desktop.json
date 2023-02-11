@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850709718746",
+    "project_id": "vladatabase",
+    "storage_bucket": "vladatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850709718746:android:2624bc6aa5256db117a7e3",
+        "android_client_info": {
+          "package_name": "com.SKSU.VLAdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850709718746-cnt9d9cei5kpv1kke9u9ecpaskceurnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dy6owwvYcIaxj1WzXIV5rtQnGx14YIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850709718746-6ugdk6fign1q4u9v9u93ihq2ulo66nr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
